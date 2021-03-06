@@ -1,3 +1,5 @@
+@import "colors.scss";
+
 .logoNavbar {
     width: 50px;
 }
@@ -33,4 +35,12 @@
      .btn {
          border-radius: 0px;
      }
+}
+
+.img-team {
+    height: 150px !important;
+}
+
+.team {
+    background-color: $colorBackground;
 }
